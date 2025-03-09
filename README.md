@@ -58,3 +58,9 @@ python get_pdf.py
 
 ## ライセンス
 ご自由にご利用ください。
+
+---
+
+## 【機能追加】
+- get_trends.py...取得したpdfファイルから主要な経営指標のトレンドを抽出し、CSVファイルに保存するスクリプト
+- run.bat...get_pdf.pyとget_trends.pyを連続して実行するバッチファイル
