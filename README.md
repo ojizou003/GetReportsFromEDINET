@@ -40,7 +40,7 @@ pip install pandas python-dotenv requests tqdm openpyxl
 
 3. スクリプトを実行します：
 ```
-python edinet_downloader.py
+python get_pdf.py
 ```
 
 4. 実行結果として、`pdf_files`ディレクトリに「会社名+書類名」の形式でPDFファイルが保存されます。
